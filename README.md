@@ -5,6 +5,7 @@ The online hotel reservation channels have dramatically changed booking possibil
 ## Actionable usage:
 
 * Can it be predicted if the customer is going to honor the reservation or cancel it?
+* Potential to segment customers in clusters based on their preferences?
 
 ## End-user usage:
 
